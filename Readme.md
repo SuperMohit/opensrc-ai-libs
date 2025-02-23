@@ -1,4 +1,4 @@
-# Exploring Open-Source Libraries: dspy, jina, and confident
+# Exploring Open-Source Libraries
 
 Welcome to this repository where I explore and experiment with open-source libraries:
 
