@@ -1,9 +1,11 @@
-# Exploring Open-Source Libraries: dspy, Jina, and confident
+# Exploring Open-Source Libraries: dspy, jina, and confident
 
 Welcome to this repository where I explore and experiment with open-source libraries:
 
 1. **dspy**
 2. **jina**
 3. **confident**
+4. **fireworks.ai**
+5. **textgrad**
 
 More coming soon:
