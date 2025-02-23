@@ -1,4 +1,4 @@
-import os
+
 from openai import OpenAI
 from mem0 import Memory
 
