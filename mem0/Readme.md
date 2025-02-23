@@ -1,0 +1,1 @@
+Mem0 is abstraction over Vector Stores to provide efficient context during LLM inference. 
