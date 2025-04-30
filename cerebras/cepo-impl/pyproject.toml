@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cepo"
+version = "0.1.0"
+description = ""
+authors = ["qmohit-code <mohit@quest1.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<4.0"
+dspy = { version = "^2.6.21", python = ">=3.11,<3.13" }
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
